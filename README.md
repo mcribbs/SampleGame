@@ -1,1 +1,1 @@
-MacGameTesting
+SampleGame
